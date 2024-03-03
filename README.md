@@ -1,7 +1,7 @@
-<H3>ENTER YOUR NAME</H3>
-<H3>ENTER YOUR REGISTER NO.</H3>
+<H3>ENTER YOUR NAME : Jayanth.G</H3>
+<H3>ENTER YOUR REGISTER NO. : 212221230030</H3>
 <H3>EX. NO.3</H3>
-<H3>DATE:</H3>
+<H3>DATE : 03-03-2024</H3>
 <H1 ALIGN =CENTER> Implementation of Approximate Inference in Bayesian Networks
 </H1>
 
